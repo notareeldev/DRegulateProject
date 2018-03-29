@@ -1,62 +1,37 @@
 <h2><strong>Dregulate Staging Repository (Version 2.5.0)</strong></h2>
-<p>More information at Dregulate.com Visit our ANN thread at https://bitcointalk.org/index.php?topic=1831629</p>
-<h3><strong>Coin specs:</strong></h3>
-<p><strong><span style="color: #800080;"><em>Algo:</em></span></strong></p>
-<ul>
-<li>Xevan</li>
-</ul>
-<p><strong><span style="color: #800080;"><em>PoW Block Reward:</em></span></strong></p>
-<ul>
-<li>[block# 2-43200] 20% MN (0.4 DREG) / 80% MINER (1.6 DREG) [block# 43201-151200] 20% MN (0.4 DREG) / 70% MINER (1.4 DREG) / 10% Available to the budget system (0.20 DREG) [block# 151201-259200] 45% MN (0.9 DREG) / 45% MINER (0.9 DREG) / 10% Available to the budget system (0.2 DREG)</li>
-</ul>
-<p><strong><span style="color: #800080;"><em>PoS Block Reward:</em></span></strong></p>
-<ul>
-<li>[block# 259201-Infinite] Variable based on SeeSaw Reward Mechanism</li>
-</ul>
-<p><strong><span style="color: #800080;"><em>Block Time:</em></span></strong></p>
-<ul>
-<li>60 Seconds with Retargeting every Block</li>
-</ul>
-<p><strong><span style="color: #800080;"><em>Max Coin Supply:</em></span></strong></p>
-<ul>
-<li>PoW Phase: 518.400</li>
-</ul>
-<p><strong><span style="color: #800080;"><em>Max Coin Supply:</em></span></strong></p>
-<ul>
-<li>PoS Phase: Infinte</li>
-</ul>
-<p><strong><span style="color: #800080;"><em>PoW Phase 1:</em></span></strong></p>
-<ul>
-<li>[block# 1] 810000 Premine to support the swap.</li>
-</ul>
-<p><strong><span style="color: #800080;"><em>PoW Phase 2:</em></span></strong></p>
-<ul>
-<li>[block#&rsquo;s 2-259200] Approx 180 Days</li>
-</ul>
-<p><strong><span style="color: #800080;"><em>PoW Rewards Breakdown:</em></span></strong></p>
-<ul>
-<li>[block&rsquo;s &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2-43200] 20% MN (0.4 DREG) &nbsp; &nbsp;/ 80% MINER (1.6 DREG)</li>
-<li>[block&rsquo;s &nbsp; 43201-151200] 20% MN (0.4 DREG) &nbsp; &nbsp;/ 70% MINER (1.4 DREG) &nbsp;/ 10% Available to the budget system (0.20 DREG)</li>
-<li>[block&rsquo;s 151201-259200] 45% MN (0.9 DREG) / 45% MINER (0.9 DREG) / 10% Available to the budget system ( &nbsp;0.2 DREG)</li>
-</ul>
-<p><strong><span style="color: #800080;"><em>PoS Rewards Breakdown:</em></span></strong></p>
-<ul>
-<li>PoS Phase 1: [blocks 259201-302399] 1 DREG (90% distributed to staker and masternode - 10% available to budget system)</li>
-<li>PoS Phase 2: [blocks 302400-345599] 0.95 DREG (90% distributed to staker and masternode - 10% available to budget system)</li>
-<li>PoS Phase 3: [blocks 345600-388799] 0.9 DREG (90% distributed to staker and masternode - 10% available to budget system)</li>
-<li>PoS Phase 4: [blocks 388800-431999] 0.85 DREG (90% distributed to staker and masternode - 10% available to budget system)</li>
-<li>PoS Phase 5: [blocks 432000-475199] 0.80 DREG (90% distributed to staker and masternode - 10% available to budget system)</li>
-<li>PoS Phase 6: [blocks 475200-518399] 0.75 DREG (90% distributed to staker and masternode - 10% available to budget system)</li>
-<li>PoS Phase 7: [blocks 518400-561599] 0.70 DREG (90% distributed to staker and masternode - 10% available to budget system)</li>
-<li>PoS Phase 8: [blocks 561600-604799] 0.75 DREG (90% distributed to staker and masternode - 10% available to budget system)</li>
-<li>PoS Phase 9: [blocks 604800-647999] 0.70 DREG (90% distributed to staker and masternode - 10% available to budget system)</li>
-<li>PoS Phase X: [blocks 648000-Infinite] &nbsp; 0.25 DREG (90% distributed to staker and masternode - 10% available to budget system)</li>
-</ul>
-<br/>
-<p>&nbsp;</p>
-<p>+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++</p>
-<p>&nbsp;</p>
+
 <p>Dregulate is a cutting edge cryptocurrency, with many features not available in most other cryptocurrencies.</p>
 <p>Anonymized transactions using coin mixing technology, we call it <em>Obfuscation</em>.</p>
 <p>Fast transactions featuring guaranteed zero confirmation transactions, we call it <em>SwiftTX</em>.</p>
-<p>Decentralized blockchain voting providing for consensus based advancement of the current Masternode technology used to secure the network and provide the above features, each Masternode is secured with collateral of 1000 DREG</p>
+<p>Decentralized blockchain voting providing for consensus based advancement of the current Masternode technology used to secure the network and provide the above features, each Masternode is secured with collateral of 10000 DREG</p>
+
+
+      We are living in a pivotal time in human history when the people are on the verge of taking the reigns of their own destiny. Cryptocurrency has given the "Average Man" a new tool to empower his own future and change his lot. Like in the past, if a man is too close to the heavens the gods must try to strike him down. The so-called "experts" have enacted a bunch of new tax laws which are so convoluted and impossible to follow that on April 15th many Americans will become criminals and face harsh penalties. These regulations will basically kill crypto as a currency and make settling trades a costly event.
+
+Let me start by saying that i am a law-abiding citizen who wants to pay my fair share and i do not support breaking the law and THIS IS NOT MY INTENTION.  i also feel that long-term capital gains taxes seem  logical and promote holding bitcoin (this is good) however, the short-term capital gains tax on all crypto transactions (for short-term  holds) is unfair(extra taxes for payees who work for crypto and merchants who accept crypto) and impossible to track without hiring a very expensive accountant.  Some people (especially freelance programmers in the blockchain space) ACTUALLY USE CRYPTO AS A PAYMENT METHOD AND CURRENCY!!!! Miners will have a very trim profit margin (mining was previously tax-free) and many people will have years of headaches and litigation ahead of them.
+
+Furthermore, it is futile and short-sighted to attempt forcing crypto into the old world model. A permissionless globally distributed anonymous system dosent behave in the way that a centralized system does. There are many uses for crypto and many kinds of crypto users. it is impossible to create a "one size fits all"  blanket tax and securities regulatory statute. That is kind of the point of these networks.
+
+We are a small crew of programmers, miners, and traders who come from different backgrounds and ideologies. We have started this project with four key goals:
+       1) To create a privacy-focused network using zero-knowledge and obfuscation thus rendering regulations pointless.
+       2) To raise awareness about the unfairness of regulations to crypto USERS and MINERS
+       3) To create a support system for people arrested or tried for tax evasion when they were not engaged in trading cryptos as a business (ie. for mining or spending crypto). We would like to start a foundation and help people by providing lawyers and accountants if needed.
+       4)To Work towards a fairer system by pursuing facetime with legislators to enact fair legislation. 
+  
+
+
+COIN SPECS
+
+                                ALGO - TBA -(an obscure rarely used algo with gpu miner available at launch(no renters  Grin )
+
+                       MAX POW - ~50,000,000
+
+                       MN Availability - after 1 week with week 3 being 50/50 split (POW/MN)
+                       POW phase - 1 yr
+
+                       DISTRIBUTION - rapidly declining with 10 mil produced in week 1 (early adopter reward)
+
+                       POS begins BLOCK 262981
+
+                       2% Premine 50% reserved for the creation of a crypto user activist support group
+

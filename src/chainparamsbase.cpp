@@ -8,7 +8,7 @@
 #include "util.h"
 
 #include <assert.h>
-
+#include <bignum.h>
 #include <boost/assign/list_of.hpp>
 
 using namespace boost::assign;
