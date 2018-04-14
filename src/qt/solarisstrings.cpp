@@ -226,10 +226,10 @@ QT_TRANSLATE_NOOP("Dregulate-core", ""
 QT_TRANSLATE_NOOP("Dregulate-core", ""
 "You must specify a masternodeprivkey in the configuration. Please see "
 "documentation for help."),
-QT_TRANSLATE_NOOP("Dregulate-core", "(60020 could be used only on mainnet)"),
+QT_TRANSLATE_NOOP("Dregulate-core", "(55002 could be used only on mainnet)"),
 QT_TRANSLATE_NOOP("Dregulate-core", "(default: %s)"),
 QT_TRANSLATE_NOOP("Dregulate-core", "(default: 1)"),
-QT_TRANSLATE_NOOP("Dregulate-core", "(must be 60020 for mainnet)"),
+QT_TRANSLATE_NOOP("Dregulate-core", "(must be 55002 for mainnet)"),
 QT_TRANSLATE_NOOP("Dregulate-core", "<category> can be:"),
 QT_TRANSLATE_NOOP("Dregulate-core", "Accept command line and JSON-RPC commands"),
 QT_TRANSLATE_NOOP("Dregulate-core", "Accept connections from outside (default: 1 if no -proxy or -connect)"),

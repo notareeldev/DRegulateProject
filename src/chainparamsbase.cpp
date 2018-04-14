@@ -8,7 +8,7 @@
 #include "util.h"
 
 #include <assert.h>
-#include <bignum.h>
+
 #include <boost/assign/list_of.hpp>
 
 using namespace boost::assign;
@@ -22,7 +22,7 @@ public:
     CBaseMainParams()
     {
         networkID = CBaseChainParams::MAIN;
-        nRPCPort = 45456;
+        nRPCPort = 55001;
     }
 };
 static CBaseMainParams mainParams;
